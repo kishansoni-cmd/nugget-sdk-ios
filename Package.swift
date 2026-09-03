@@ -17,8 +17,8 @@ let package = Package(
         // Main Nugget binary
         .binaryTarget(
             name: "Nugget",
-            url: "https://github.com/kishansoni-cmd/nugget-sdk-ios/releases/download/4.99.1-Nugget/Nugget.xcframework.zip",
-            checksum: "5c6757253cb25067bfde9989dc50394dee6869b52a786ea1424520a48390784d"
+            url: "https://github.com/kishansoni-cmd/nugget-sdk-ios/releases/download/4.99.2-Nugget/Nugget.xcframework.zip",
+            checksum: "71735633c7fd82c686e39c84b52f836eb7d4d862bb73029b89b4c56527cd5aac"
         ),
         .target(
             name: "NuggetSDK",
